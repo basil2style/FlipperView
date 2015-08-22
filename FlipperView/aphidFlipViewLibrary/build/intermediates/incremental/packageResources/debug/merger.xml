@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\CHUCK\Magazine\FlipperView\aphidFlipViewLibrary\src\main\res"><file name="ic_action_search" path="F:\CHUCK\Magazine\FlipperView\aphidFlipViewLibrary\src\main\res\drawable-hdpi\ic_action_search.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\CHUCK\Magazine\FlipperView\aphidFlipViewLibrary\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_search" path="F:\CHUCK\Magazine\FlipperView\aphidFlipViewLibrary\src\main\res\drawable-mdpi\ic_action_search.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\CHUCK\Magazine\FlipperView\aphidFlipViewLibrary\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_search" path="F:\CHUCK\Magazine\FlipperView\aphidFlipViewLibrary\src\main\res\drawable-xhdpi\ic_action_search.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\CHUCK\Magazine\FlipperView\aphidFlipViewLibrary\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file path="F:\CHUCK\Magazine\FlipperView\aphidFlipViewLibrary\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="FlipViewController">
+		<attr format="enum" name="orientation">
+			<enum name="vertical" value="0"/>
+			<enum name="horizontal" value="1"/>
+		</attr>
+
+		<attr format="enum" name="animationBitmapFormat">
+			<enum name="ARGB_8888" value="0"/>
+			<enum name="ARGB_4444" value="1"/>
+			<enum name="RGB_565" value="2"/>
+		</attr>
+	</declare-styleable></file><file path="F:\CHUCK\Magazine\FlipperView\aphidFlipViewLibrary\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Flip-Library</string></file><file path="F:\CHUCK\Magazine\FlipperView\aphidFlipViewLibrary\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="android:Theme.Light"/></file></source><source path="F:\CHUCK\Magazine\FlipperView\aphidFlipViewLibrary\build\generated\res\rs\debug"/><source path="F:\CHUCK\Magazine\FlipperView\aphidFlipViewLibrary\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="F:\CHUCK\Magazine\FlipperView\aphidFlipViewLibrary\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="FlipViewController"><attr format="enum" name="orientation"><enum name="vertical" value="0"/><enum name="horizontal" value="1"/></attr><attr format="enum" name="animationBitmapFormat"><enum name="ARGB_8888" value="0"/><enum name="ARGB_4444" value="1"/><enum name="RGB_565" value="2"/></attr></declare-styleable></configuration></mergedItems></merger>
